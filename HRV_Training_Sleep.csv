@@ -1,0 +1,214 @@
+date,HR_lying,rMSSD_lying,HRV4T_Recovery_Points,training,physical_condition,trainingRPE, trainingTSS, sleep_quality,sleep_time,muscle_soreness,fatigue,traveling,sickness,alcohol, current_lifestyle
+2019-02-12 00:01:00 +0000,-,-,-,intense,-,7.3,-,-,0:00,-,-,not traveling,not sick,nothing, -
+2019-02-14 00:01:00 +0000,63.21,17.2,6.23,easy,6.6,3,49,7.1,8:00,2,2.7,not traveling,not sick,nothing,3.4
+2019-02-15 00:01:00 +0000,77.07,402.82,11.44,intense,5.7,6.4,97,7.5,8:00,6.4,3.6,not traveling,not sick,nothing,3.6
+2019-02-16 00:01:00 +0000,56.14,40.02,7.41,rest,6.1,-,-,5,8:00,6.2,6.2,not traveling,not sick,a little,3.1
+2019-02-17 00:01:00 +0000,54.37,50.58,7.78,rest,6,-,-,10,8:59,3.1,2.8,not traveling,not sick,nothing,3.4
+2019-02-18 00:01:00 +0000,55.95,35.18,7.21,easy,6,3,49,8,8:00,5,6.2,not traveling,not sick,nothing,3.5
+2019-02-19 00:01:00 +0000,56.87,23.08,6.61,intense,5.7,8.6,-,6.2,8:00,3.7,3.6,not traveling,not sick,nothing,3.4
+2019-02-20 00:01:00 +0000,58.53,34.36,7.18,easy,6,0.5,-,8.2,8:00,5,3.3,not traveling,not sick,a little,3.4
+2019-02-21 00:01:00 +0000,60.31,43.44,7.54,easy,5.9,3.2,49,6.5,8:00,2.1,7.4,not traveling,not sick,nothing,2.9
+2019-02-22 00:01:00 +0000,55.07,49.24,7.73,average,6.1,6,85,7.3,8:00,3.7,3.5,not traveling,not sick,a little,3.5
+2019-02-23 00:01:00 +0000,58.58,28.56,6.91,rest,5.9,-,-,7.5,8:00,3.6,5,not traveling,not sick,nothing,3.4
+2019-02-24 00:01:00 +0000,57.77,37.24,7.3,rest,6,-,-,6.7,7:17,2.3,4.9,not traveling,not sick,nothing,4
+2019-02-25 00:01:00 +0000,58.88,55,7.91,easy,6.1,3,49,6.2,8:00,2.9,3.6,not traveling,not sick,nothing,3.4
+2019-02-26 00:01:00 +0000,61.39,137.39,9.48,intense,5.9,7.3,57,7.2,8:00,1.9,1.7,not traveling,not sick,a little,2.6
+2019-02-27 00:01:00 +0000,55.07,40.31,7.42,easy,6,6,53,6,8:00,5,6.4,not traveling,not sick,nothing,5
+2019-02-28 00:01:00 +0000,57.79,31.28,7.04,easy,6.1,3,49,7.4,8:00,5.8,5.9,not traveling,not sick,a little,3.8
+2019-03-01 00:01:00 +0000,59.15,30.46,7,average,5.8,7.1,103,6.4,8:00,3.3,3.4,not traveling,sick,nothing,3.1
+2019-03-02 00:01:00 +0000,59.51,19.52,6.39,rest,5.8,-,-,9,8:00,5,3.7,not traveling,sick,a little,3
+2019-03-03 00:01:00 +0000,61.42,23.75,6.65,rest,6.2,-,-,6.7,8:00,4.5,6.5,not traveling,sick,a little,3.3
+2019-03-04 00:01:00 +0000,52.89,43.51,7.54,easy,6,3,49,6.1,8:00,3.5,6.5,not traveling,not sick,nothing,3.5
+2019-03-05 00:01:00 +0000,63.99,33.79,7.15,intense,6,8.4,81,5.9,5:58,7.3,6.1,not traveling,not sick,a little,3.7
+2019-03-06 00:01:00 +0000,59.12,33.07,7.12,rest,6.2,-,-,8.9,8:00,7.6,2.3,not traveling,not sick,nothing,2.6
+2019-03-07 00:01:00 +0000,57.41,36,7.25,easy,5.8,3,49,6.8,5:48,5.7,5.8,not traveling,not sick,nothing,3.4
+2019-03-08 00:01:00 +0000,58.53,31.44,7.05,intense,5.7,8.1,69,7.2,8:00,6.7,3.2,not traveling,not sick,a little,3.8
+2019-03-09 00:01:00 +0000,55.12,28.02,6.88,rest,6.2,-,-,9.5,8:00,3.7,3,not traveling,not sick,a little,3.9
+2019-03-10 00:01:00 +0000,53.23,34,7.16,rest,6.2,-,-,7.7,8:00,2.6,2.7,not traveling,not sick,a little,5.5
+2019-03-11 00:01:00 +0000,50.67,68.76,8.28,easy,5.8,2,35,3.6,4:22,3.1,7.3,not traveling,not sick,nothing,5
+2019-03-12 00:01:00 +0000,56.54,25.25,6.74,intense,5.7,7.5,72,7.6,7:03,5,3.1,not traveling,not sick,a little,5
+2019-03-13 00:01:00 +0000,52.7,32.86,7.11,rest,6,-,-,7,7:07,3.4,3,not traveling,not sick,a little,5
+2019-03-14 00:01:00 +0000,53.66,44.07,7.56,easy,5.7,3,40,6.7,5:58,2.6,6.5,not traveling,not sick,nothing,5
+2019-03-17 00:01:00 +0000,58.91,27.38,6.85,intense,5,10,34,5,9:00,5,5,not traveling,not sick,a little,5
+2019-03-18 00:01:00 +0000,52.88,26.64,6.81,easy,5.9,2,40,6.1,6:02,3.1,3.5,not traveling,not sick,nothing,5
+2019-03-19 00:01:00 +0000,58.45,135.47,9.45,easy,6.1,2.4,19,6.5,8:00,6.5,5,not traveling,not sick,a little,5
+2019-03-20 00:01:00 +0000,56.88,30.74,7.02,rest,5.8,-,-,6.7,8:00,5,5,not traveling,not sick,a little,5
+2019-03-21 00:01:00 +0000,53.19,30.26,6.99,average,5.5,5,61,4.3,8:00,6,6.6,not traveling,not sick,nothing,5
+2019-03-22 00:01:00 +0000,54.67,32.7,7.11,intense,6,9,98,6.4,8:00,3.1,3.1,not traveling,not sick,nothing,5
+2019-03-23 00:01:00 +0000,54.96,23.98,6.67,average,5.9,6.1,62,5.7,8:00,3.5,5,not traveling,not sick,a little,5
+2019-03-24 00:01:00 +0000,55.05,40.14,7.42,rest,6.1,-,-,6.5,7:17,3.6,3.4,not traveling,not sick,a little,5
+2019-03-25 00:01:00 +0000,57.38,28.19,6.89,easy,6,2.4,40,4.7,6:57,5.9,6.4,not traveling,not sick,a little,5
+2019-03-26 00:01:00 +0000,54.61,34.88,7.2,average,6,6,69,5,8:00,3.2,3.3,not traveling,not sick,a little,5
+2019-03-27 00:01:00 +0000,58.04,26.32,6.79,rest,6,-,-,8.4,8:00,3.7,2,not traveling,not sick,nothing,5
+2019-03-29 00:01:00 +0000,57.09,39.46,7.39,average,5.6,3,-,7.9,8:00,4.2,5.9,not traveling,not sick,nothing,5
+2019-03-30 00:01:00 +0000,57.5,38.36,7.35,average,5,5,66,5,8:00,5,5,not traveling,not sick,a little,5
+2019-03-31 00:01:00 +0000,53.46,31.52,7.05,rest,6.2,-,-,8.3,8:00,2.4,2,not traveling,not sick,nothing,5
+2019-04-01 00:01:00 +0000,53.15,35.03,7.21,rest,5.7,-,-,6.9,8:00,3.7,3.2,not traveling,not sick,nothing,5
+2019-06-18 00:01:00 +0000,-,-,-,average,-,4.5,-,-,0:00,-,-,not traveling,not sick,nothing, -
+2019-06-19 00:01:00 +0000,46.9,13.81,5.98,average,6.4,3,-,3,8:00,5,6.2,not traveling,not sick,nothing,5
+2019-06-20 00:01:00 +0000,48,27.45,6.86,rest,5,-,-,5,7:45,5,5,not traveling,not sick,nothing,5
+2019-06-21 00:01:00 +0000,49,22.27,6.57,average,6.3,7.2,80,2.8,6:54,5,7.1,not traveling,not sick,nothing,2.8
+2019-06-22 00:01:00 +0000,50.28,31.91,7.07,intense,5,6.4,86,6.5,8:00,3.6,5,not traveling,not sick,a little,5
+2019-06-23 00:01:00 +0000,51,54.89,7.91,rest,5,-,-,5,7:46,2.9,5,not traveling,not sick,nothing,5
+2019-06-24 00:01:00 +0000,49.15,13.64,5.97,easy,6.5,3,44,5,8:00,3.5,6.8,not traveling,not sick,nothing,5
+2019-06-25 00:01:00 +0000,45,12.2,5.85,average,5,3,-,8.7,8:00,5,5,not traveling,not sick,nothing,5
+2019-06-26 00:01:00 +0000,53.71,74.71,8.42,intense,5,7,79,5,8:00,5,5,not traveling,not sick,nothing,5
+2019-06-27 00:01:00 +0000,51,19.95,6.43,rest,5,-,-,7.2,8:00,3.5,5.9,not traveling,not sick,nothing,5
+2019-06-28 00:01:00 +0000,51,28.03,6.89,intense,5,7.3,104,7.1,8:00,2.7,5.8,not traveling,not sick,nothing,5
+2019-06-29 00:01:00 +0000,52,40.23,7.42,rest,5,-,-,5,8:00,5,5,not traveling,not sick,nothing,5
+2019-06-30 00:01:00 +0000,49,12.38,5.86,average,5,7,80,5,6:54,5,5,traveling,not sick,nothing,5
+2019-07-01 00:01:00 +0000,50.36,36.49,7.27,rest,5,-,-,5,8:00,5,2.8,traveling,not sick,nothing,5
+2019-07-02 00:01:00 +0000,50,39.27,7.39,rest,5,-,-,5,8:26,3.5,3.2,not traveling,not sick,nothing,5
+2019-07-03 00:01:00 +0000,49,32.05,7.08,rest,5,-,-,8,8:00,2.4,1.8,not traveling,not sick,nothing,5
+2019-07-04 00:01:00 +0000,48,19.48,6.4,rest,5,-,-,6.9,8:20,5,3.1,not traveling,not sick,nothing,5
+2019-07-08 00:01:00 +0000,-,-,-,intense,-,8.6,69,-,0:00,-,-,not traveling,not sick,nothing, -
+2019-07-09 00:01:00 +0000,54,6.72,5.3,average,5,3,-,5,7:18,3.4,3,not traveling,not sick,nothing,5
+2019-07-10 00:01:00 +0000,57.43,63.16,8.14,rest,5,-,-,5,7:37,5,5,not traveling,not sick,nothing,5
+2019-07-11 00:01:00 +0000,55.45,8.1,5.45,rest,5,-,-,5,6:11,5,5,not traveling,not sick,nothing,5
+2020-01-05 00:01:00 +0000,-,-,-,average,-,3,-,-,0:00,-,-,not traveling,not sick,nothing, -
+2020-01-06 00:01:00 +0000,-,-,-,intense,5,8.6,70,5,8:00,5,5,not traveling,not sick,nothing,5
+2020-01-07 00:01:00 +0000,55.19,75.88,8.45,rest,-,-,-,7.2,8:00,2.5,2.2,not traveling,not sick,nothing, -
+2020-01-31 00:01:00 +0000,-,-,-,average,-,4.2,54,-,0:00,-,-,traveling,not sick,nothing, -
+2020-02-01 00:01:00 +0000,51.43,24,6.68,rest,5,-,-,8.9,8:00,5,5,not traveling,not sick,nothing,8.9
+2020-02-02 00:01:00 +0000,48.22,44,7.57,rest,-,-,-,9.1,8:55,1,0.6,not traveling,not sick,nothing,8.4
+2020-02-03 00:01:00 +0000,48.4,33,7.13,easy,-,3,39,7.3,7:28,9.2,8.4,not traveling,not sick,nothing,5
+2020-02-04 00:01:00 +0000,51.44,27,6.85,easy,-,3,39,8.9,8:13,6.6,6.8,not traveling,not sick,a little,9.3
+2020-02-05 00:01:00 +0000,55.93,23,6.63,rest,-,-,-,7.6,9:03,6.1,6.7,not traveling,not sick,nothing,8.3
+2020-02-06 00:01:00 +0000,53.31,26,6.79,easy,-,3,39,8.5,7:26,5,3.4,not traveling,not sick,nothing,9.9
+2020-02-07 00:01:00 +0000,53.07,26,6.79,easy,-,3,39,9.1,8:38,4.1,1.6,not traveling,not sick,nothing,9.5
+2020-02-08 00:01:00 +0000,52.44,26,6.79,rest,-,-,-,8.7,8:32,1.1,1.4,not traveling,not sick,a little,9.3
+2020-02-09 00:01:00 +0000,49.35,37,7.3,easy,-,3,44,9.3,8:39,1.2,1,not traveling,not sick,nothing,9.3
+2020-02-10 00:01:00 +0000,52.91,23,6.63,average,-,3,39,8.1,8:06,2.2,5,not traveling,not sick,a little,9.3
+2020-02-11 00:01:00 +0000,49.33,31,7.04,average,-,7.3,58,7.5,7:42,5,5,not traveling,not sick,nothing,9.3
+2020-02-12 00:01:00 +0000,51.54,29,6.95,rest,-,-,-,6.9,8:12,2.8,2.2,not traveling,not sick,nothing,9.4
+2020-02-13 00:01:00 +0000,49.93,37,7.3,easy,-,3,44,8.4,7:37,0.8,1.2,not traveling,not sick,nothing,9.5
+2020-02-14 00:01:00 +0000,56,21,6.51,easy,-,3,44,7.9,8:00,2.5,7.2,traveling,not sick,a little,8.4
+2020-02-15 00:01:00 +0000,59.53,23,6.63,rest,-,-,-,8.1,7:39,2.7,4.9,not traveling,not sick,a little,6
+2020-02-16 00:01:00 +0000,56.16,33,7.13,rest,-,-,-,7.6,6:34,1.9,2.5,not traveling,not sick,a little,9
+2020-02-17 00:01:00 +0000,53.54,33,7.13,intense,-,9.2,34,9.2,8:09,1.7,2.8,traveling,not sick,nothing,9.5
+2020-02-18 00:01:00 +0000,53.49,26,6.79,easy,-,3,39,8.1,7:49,4.4,6.4,not traveling,not sick,nothing,9.7
+2020-02-19 00:01:00 +0000,49.06,32,7.09,rest,-,-,-,8.6,8:33,5,5,not traveling,not sick,a little,9.2
+2020-02-20 00:01:00 +0000,54.88,24,6.68,average,-,5.3,62,8.3,8:15,2.5,6.6,not traveling,not sick,nothing,9.1
+2020-02-21 00:01:00 +0000,53.94,24,6.69,rest,-,-,-,8.4,7:16,5,7.6,not traveling,not sick,a little,9.6
+2020-02-22 00:01:00 +0000,48.92,36,7.26,rest,-,-,-,9.1,8:00,3.2,2.3,not traveling,not sick,nothing,9.2
+2020-02-23 00:01:00 +0000,50.63,34,7.18,easy,-,4.4,67,8.6,8:32,3.8,6.4,not traveling,not sick,nothing,9.6
+2020-02-24 00:01:00 +0000,51.6,27,6.85,easy,-,3,39,8.1,8:03,5,6.9,not traveling,not sick,a little,9.5
+2020-02-25 00:01:00 +0000,50.85,33,7.13,average,-,5.3,57,8.9,8:37,4.9,8.7,not traveling,not sick,nothing,8.9
+2020-02-26 00:01:00 +0000,53.03,25,6.74,rest,-,-,-,8.1,7:30,5,2.5,not traveling,not sick,a little,3.2
+2020-02-27 00:01:00 +0000,49.45,37,7.3,average,-,6.8,65,8.2,7:13,5,7.2,not traveling,not sick,a little,9.3
+2020-02-28 00:01:00 +0000,52.43,28,6.9,easy,-,3.1,43,8,7:01,2.6,6.6,not traveling,not sick,too much,9.8
+2020-02-29 00:01:00 +0000,51.78,32,7.09,rest,-,-,-,8.6,8:43,3.3,4.1,not traveling,not sick,nothing,9.8
+2020-03-01 00:01:00 +0000,49.83,33,7.13,intense,-,8.6,96,9.2,8:23,5,3.4,not traveling,not sick,nothing,2.7
+2020-03-02 00:01:00 +0000,52.88,24,6.69,easy,-,4.2,39,8.5,7:35,6.6,1.8,not traveling,not sick,nothing,9.2
+2020-03-03 00:01:00 +0000,48,38,7.35,average,-,6.8,64,8.8,7:56,5,3.6,not traveling,not sick,a little,9.2
+2020-03-04 00:01:00 +0000,51.62,27,6.85,rest,-,-,-,9.1,9:01,5,6,not traveling,not sick,nothing,9.1
+2020-03-05 00:01:00 +0000,47.92,34,7.18,average,-,5.5,65,8.3,7:31,5,5.7,not traveling,not sick,nothing,9.4
+2020-03-06 00:01:00 +0000,54.56,22,6.57,average,-,4.3,43,4.8,8:10,5,7.2,not traveling,not sick,a little,9.4
+2020-03-07 00:01:00 +0000,48.86,30,7,rest,-,-,-,9.2,7:55,5,2.3,not traveling,not sick,nothing,9
+2020-03-08 00:01:00 +0000,47.26,35,7.22,average,-,8.7,104,8.6,8:09,5,7.3,not traveling,not sick,nothing,9
+2020-03-09 00:01:00 +0000,48.69,31,7.04,rest,-,-,-,8.9,8:28,5,6.5,not traveling,not sick,nothing,9.4
+2020-03-10 00:01:00 +0000,49.57,29,6.95,average,-,4.5,64,7,6:27,5,8.5,not traveling,not sick,a little,2.8
+2020-03-11 00:01:00 +0000,50.75,32,7.09,rest,-,-,-,9.4,8:43,5,5,not traveling,not sick,nothing,8.9
+2020-03-12 00:01:00 +0000,50.98,31,7.04,average,-,6.3,66,8.3,7:03,5,5,not traveling,not sick,nothing,8.7
+2020-03-13 00:01:00 +0000,50.41,23,6.63,rest,-,-,-,8.8,8:00,5,5,not traveling,not sick,nothing,2.5
+2020-03-14 00:01:00 +0000,-,-,-,rest,-,-,-,-,0:00,-,-,not traveling,not sick,nothing, -
+2020-03-15 00:01:00 +0000,53.79,31,7.04,average,-,8.6,111,8.9,8:14,5,4.1,not traveling,not sick,nothing,7.6
+2020-03-16 00:01:00 +0000,48.36,31,7.04,easy,-,3,39,8.2,7:37,7.4,7.4,not traveling,not sick,nothing,8.6
+2020-03-17 00:01:00 +0000,48.61,36,7.26,average,-,6.9,68,8.7,7:43,5,6.5,not traveling,not sick,nothing,8.6
+2020-03-18 00:01:00 +0000,48.19,35,7.22,rest,-,-,-,9.1,8:22,7.7,2.5,not traveling,not sick,a little,2.3
+2020-03-19 00:01:00 +0000,50.11,31,7.04,average,-,7.6,73,7.9,7:58,6.1,7.3,not traveling,not sick,a little,5
+2020-03-20 00:01:00 +0000,51.11,33,7.14,rest,-,-,-,8.8,8:22,5,3.6,not traveling,not sick,nothing,8.9
+2020-03-21 00:01:00 +0000,49.97,34,7.18,rest,-,-,-,9.3,7:33,5,5,not traveling,not sick,nothing,5
+2020-03-22 00:01:00 +0000,45.81,36,7.26,intense,-,9.3,113,8.8,8:54,5,3.9,not traveling,not sick,a little,8.8
+2020-03-23 00:01:00 +0000,53.88,25,6.74,easy,-,3,39,8.8,8:15,7.3,6.7,not traveling,not sick,nothing,9
+2020-03-24 00:01:00 +0000,49.15,35,7.22,easy,-,3,39,8.5,7:41,2.4,2.3,not traveling,not sick,a little,9
+2020-03-25 00:01:00 +0000,52.29,26,6.8,rest,-,-,-,9,7:30,5,2.6,not traveling,sick,a little,3.8
+2020-03-26 00:01:00 +0000,51.96,26,6.8,rest,-,-,-,8.5,8:58,5,5,not traveling,not sick,nothing,6.8
+2020-03-27 00:01:00 +0000,-,-,-,easy,-,3,43,-,0:00,-,-,not traveling,not sick,too much, -
+2020-03-28 00:01:00 +0000,50.67,36,7.26,rest,-,-,-,9.3,8:41,3.3,3.2,not traveling,not sick,nothing,5.1
+2020-03-29 00:01:00 +0000,49.83,35,7.22,easy,-,3.4,69,9.3,8:44,5,5,not traveling,not sick,nothing,3.8
+2020-03-30 00:01:00 +0000,51.8,26,6.8,easy,-,3,39,8.8,7:52,5,5,not traveling,not sick,nothing,6.9
+2020-03-31 00:01:00 +0000,48.86,32,7.09,average,-,6,69,8.7,7:53,3.7,2.5,not traveling,not sick,too much,8.9
+2020-04-01 00:01:00 +0000,52.28,28,6.9,rest,-,-,-,9.3,9:01,5,5,not traveling,not sick,nothing,8.2
+2020-04-02 00:01:00 +0000,52.46,28,6.9,intense,-,8.9,90,8.4,7:46,5,5,not traveling,not sick,nothing,8.8
+2020-04-03 00:01:00 +0000,52.46,25,6.74,easy,-,3,43,8.9,8:21,5,5,not traveling,not sick,too much,9
+2020-04-04 00:01:00 +0000,53.11,28,6.9,rest,-,-,-,9.1,8:46,5,3.4,not traveling,not sick,a little,8.6
+2020-04-05 00:01:00 +0000,53.34,27,6.85,intense,-,7.2,102,9.1,8:43,5,5,not traveling,not sick,nothing,9.2
+2020-04-06 00:01:00 +0000,53.08,26,6.8,easy,-,3,39,7.8,7:39,5,5.9,not traveling,not sick,nothing,8.9
+2020-04-07 00:01:00 +0000,52.23,28,6.9,intense,-,7.3,85,8.6,7:43,5,6.5,not traveling,not sick,a little,9
+2020-04-08 00:01:00 +0000,55.62,22,6.57,rest,-,-,-,9.3,8:55,5,6.2,not traveling,not sick,a little,9.1
+2020-04-09 00:01:00 +0000,53.11,26,6.8,rest,-,-,-,9.1,8:20,5,5,not traveling,not sick,nothing,1.4
+2020-04-10 00:01:00 +0000,53.3,26,6.8,rest,-,-,-,8.8,7:55,5,5,not traveling,not sick,nothing,7.6
+2020-04-11 00:01:00 +0000,-,-,-,rest,-,-,-,-,0:00,-,-,not traveling,not sick,a little, -
+2020-04-12 00:01:00 +0000,52.88,26,6.8,average,-,7.6,106,8.7,8:47,5,5,not traveling,not sick,nothing,8.3
+2020-04-13 00:01:00 +0000,51.49,37,7.31,easy,-,3,39,8.7,7:35,2.5,2.4,not traveling,not sick,a little,8.9
+2020-04-14 00:01:00 +0000,52.47,32,7.09,intense,-,10,38,8.5,7:49,5,5,not traveling,not sick,nothing,8.5
+2020-04-15 00:01:00 +0000,50.62,33,7.14,rest,-,-,-,9.5,8:56,3.1,2,not traveling,not sick,nothing,9.2
+2020-04-16 00:01:00 +0000,53.92,28,6.9,average,-,6.6,67,8.2,7:39,5,7.1,not traveling,not sick,a little,3
+2020-04-17 00:01:00 +0000,55.05,23,6.63,easy,-,3,43,7.8,8:16,2.7,7.1,not traveling,not sick,a little,2.1
+2020-04-18 00:01:00 +0000,51.71,29,6.95,rest,-,-,-,9.3,8:50,5,5,not traveling,not sick,nothing,7.9
+2020-04-19 00:01:00 +0000,51.59,28,6.9,intense,-,8.2,109,9,8:18,3.6,3.3,not traveling,not sick,nothing,6.6
+2020-04-20 00:01:00 +0000,52.19,27,6.85,average,-,6.5,69,8.1,7:50,5,6.5,not traveling,not sick,nothing,3.1
+2020-04-21 00:01:00 +0000,52.45,34,7.18,intense,-,9.5,31,8.3,7:11,5,5.7,not traveling,not sick,a little,2.7
+2020-04-22 00:01:00 +0000,52,29,6.95,rest,-,-,-,8.4,8:28,5,5,not traveling,not sick,nothing,3
+2020-04-23 00:01:00 +0000,52.51,26,6.8,rest,-,-,-,8.8,8:00,5,6.7,not traveling,not sick,nothing,3.2
+2020-04-24 00:01:00 +0000,51.06,26,6.8,easy,-,3,42,8.6,7:42,-,-,not traveling,not sick,nothing, -
+2020-04-25 00:01:00 +0000,53.58,26,6.8,rest,-,-,-,9,7:25,5,5,not traveling,not sick,nothing,5
+2020-04-26 00:01:00 +0000,55.3,23,6.63,intense,-,7.5,102,9.1,8:48,5,5,not traveling,not sick,nothing,5
+2020-04-27 00:01:00 +0000,50.53,27,6.85,easy,-,3,39,8.8,7:56,5,5,not traveling,not sick,nothing,3.1
+2020-04-28 00:01:00 +0000,47.7,34,7.18,intense,-,7,75,8,7:31,2.7,3.5,not traveling,not sick,a little,5
+2020-04-29 00:01:00 +0000,51.4,26,6.8,rest,-,-,-,9,8:56,5,6.1,not traveling,not sick,nothing,7.5
+2020-04-30 00:01:00 +0000,50.96,28,6.9,intense,-,8.2,75,8.1,8:00,5,5,not traveling,not sick,nothing,2.2
+2020-05-01 00:01:00 +0000,52.43,25,6.74,easy,-,3,44,8.8,7:59,5,5,not traveling,not sick,a little,6.9
+2020-05-02 00:01:00 +0000,55.54,24,6.69,rest,-,-,-,9.2,8:29,5,5,not traveling,not sick,nothing,5
+2020-05-03 00:01:00 +0000,50.05,30,7,intense,-,8.4,114,8.9,8:10,2.6,2.2,not traveling,not sick,a little,3.1
+2020-05-04 00:01:00 +0000,51.53,25,6.74,easy,-,3,33,8.3,7:51,5,5,not traveling,not sick,nothing,5
+2020-05-05 00:01:00 +0000,50.72,26,6.8,average,-,7.2,77,8.5,7:23,5,5,not traveling,not sick,nothing,5
+2020-05-06 00:01:00 +0000,50.27,26,6.8,rest,-,-,-,9,9:32,6.1,2.8,not traveling,not sick,nothing,7.4
+2020-05-07 00:01:00 +0000,54.78,24,6.69,intense,-,8.5,80,8.4,7:34,7.5,7,not traveling,not sick,a little,5
+2020-05-08 00:01:00 +0000,52.83,24,6.69,easy,-,3,43,9.1,8:55,5,5,not traveling,not sick,too much,2.6
+2020-05-09 00:01:00 +0000,53.89,30,7,rest,-,-,-,8.9,7:15,5,5,not traveling,not sick,nothing,5
+2020-05-10 00:01:00 +0000,50.81,28,6.9,intense,-,9.2,118,8.8,8:42,3.3,2.7,not traveling,not sick,nothing,7.3
+2020-05-11 00:01:00 +0000,49.45,27,6.85,easy,-,3,40,9.4,8:27,5,5,not traveling,not sick,nothing,2.4
+2020-05-12 00:01:00 +0000,47.96,33,7.14,intense,-,9.3,80,7.8,7:35,5,6.5,not traveling,not sick,a little,6.5
+2020-05-13 00:01:00 +0000,51.4,26,6.8,rest,-,-,-,8.8,9:01,6.1,6.5,not traveling,not sick,a little,3.6
+2020-05-14 00:01:00 +0000,51.61,33,7.14,intense,-,8.6,84,8.3,7:23,2.2,6.9,not traveling,not sick,nothing,6.8
+2020-05-15 00:01:00 +0000,49.19,29,6.95,easy,-,3,44,8.6,8:15,3.4,3.2,not traveling,not sick,too much,3.5
+2020-05-16 00:01:00 +0000,51.95,30,7,rest,-,-,-,8.8,9:02,3.7,5,not traveling,not sick,nothing,5
+2020-05-17 00:01:00 +0000,49.81,29,6.95,intense,-,9.7,122,9.4,9:02,6.9,2.7,not traveling,not sick,a little,7.9
+2020-05-18 00:01:00 +0000,50.98,28,6.9,easy,-,3,40,9.1,8:54,6.4,5,not traveling,not sick,a little,6.3
+2020-05-19 00:01:00 +0000,50.51,36,7.27,easy,-,3,40,8,7:41,5,5,not traveling,not sick,a little,2.6
+2020-05-20 00:01:00 +0000,50.31,27,6.85,rest,-,-,-,8.9,9:04,3.4,3.3,not traveling,not sick,nothing,3.7
+2020-05-21 00:01:00 +0000,-,-,-,easy,-,3,46,-,0:00,-,-,not traveling,not sick,a little, -
+2020-05-22 00:01:00 +0000,48.66,33,7.14,easy,-,3,43,8.7,8:09,5,5,not traveling,not sick,a little,5
+2020-05-23 00:01:00 +0000,51.05,35,7.23,rest,-,-,-,9,8:40,3,2.2,not traveling,not sick,a little,7
+2020-05-24 00:01:00 +0000,54.57,26,6.8,easy,-,5.2,73,8.4,8:38,5,5,not traveling,not sick,nothing,5
+2020-05-25 00:01:00 +0000,49.39,31,7.05,intense,-,9.3,34,9.3,6:45,5,2.9,not traveling,not sick,a little,7.1
+2020-05-26 00:01:00 +0000,47.92,30,7,easy,-,3,39,8.1,9:42,5,5,not traveling,not sick,a little,6.7
+2020-05-27 00:01:00 +0000,49.94,33,7.14,rest,-,-,-,9.2,8:52,5,5,not traveling,not sick,nothing,6.2
+2020-05-28 00:01:00 +0000,50.25,36,7.27,intense,-,7.9,91,7.9,6:30,5,6.6,not traveling,not sick,nothing,3.4
+2020-05-29 00:01:00 +0000,52.77,26,6.8,rest,-,-,-,9.2,8:37,5,3.1,not traveling,not sick,nothing,6.9
+2020-05-30 00:01:00 +0000,52.1,33,7.14,rest,-,-,-,9,10:31,-,-,traveling,not sick,nothing, -
+2020-05-31 00:01:00 +0000,48.75,32,7.09,intense,-,7.3,103,8.9,8:44,2.8,2.6,not traveling,not sick,nothing,7.1
+2020-06-01 00:01:00 +0000,48.61,29,6.95,easy,-,4.2,39,9,8:33,5,5,not traveling,not sick,nothing,6.2
+2020-06-02 00:01:00 +0000,47.41,33,7.14,average,-,6.4,80,8.6,8:35,3.3,3.2,not traveling,not sick,a little,5
+2020-06-03 00:01:00 +0000,47.17,33,7.14,rest,-,-,-,9,8:24,5,5,not traveling,not sick,nothing,5
+2020-06-04 00:01:00 +0000,49.43,34,7.18,intense,-,7.2,88,9,7:50,5,5,not traveling,not sick,nothing,5
+2020-06-05 00:01:00 +0000,49.3,33,7.14,easy,-,3,44,8.7,7:25,5,6.3,not traveling,not sick,a little,8.2
+2020-06-06 00:01:00 +0000,50.06,38,7.35,rest,-,-,-,8.7,8:31,5,5,not traveling,not sick,nothing,2.5
+2020-06-07 00:01:00 +0000,52.24,33,7.14,average,-,6,108,8.8,7:37,-,-,not traveling,not sick,nothing, -
+2020-06-08 00:01:00 +0000,46.3,36,7.27,easy,-,3,39,8.9,8:05,5,3.5,traveling,not sick,nothing,5
+2020-06-09 00:01:00 +0000,46.3,38,7.35,intense,-,7.1,94,8.8,8:54,5,5,not traveling,not sick,nothing,5
+2020-06-10 00:01:00 +0000,50.33,30,7,rest,-,-,-,8.2,8:41,5,5,not traveling,not sick,a little,5
+2020-06-11 00:01:00 +0000,48.84,36,7.27,intense,-,9.9,76,8.3,7:53,5,5,not traveling,not sick,nothing,5
+2020-06-12 00:01:00 +0000,48.34,34,7.18,easy,-,3,44,9.2,8:57,5,5,traveling,not sick,a little,2.8
+2020-06-13 00:01:00 +0000,48.92,37,7.31,rest,-,-,-,8.6,9:16,5,5,not traveling,not sick,nothing,5
+2020-06-14 00:01:00 +0000,44.83,38,7.35,intense,-,8,105,8.3,7:18,5,5,not traveling,not sick,nothing,5
+2020-06-15 00:01:00 +0000,48.78,33,7.14,rest,-,-,-,9.1,8:29,5,5,not traveling,not sick,nothing,5
+2020-06-16 00:01:00 +0000,46.69,40,7.43,easy,-,3,39,7.9,6:10,-,-,traveling,not sick,nothing, -
+2020-06-17 00:01:00 +0000,51.42,29,6.95,rest,-,-,-,9.2,8:09,5,5,not traveling,not sick,a little,5
+2020-06-18 00:01:00 +0000,48.36,37,7.31,easy,-,3,40,8.5,8:15,5,5,not traveling,not sick,nothing,5
+2020-06-19 00:01:00 +0000,48.7,30,7,easy,-,3,43,9,8:27,5,5,not traveling,not sick,nothing,5
+2020-06-20 00:01:00 +0000,52.13,25,6.75,rest,-,-,-,9.6,9:22,5,5,traveling,not sick,nothing,5
+2020-06-21 00:01:00 +0000,51.07,33,7.14,average,-,4.7,60,8.8,7:12,2.8,3.1,not traveling,not sick,nothing,5
+2020-06-22 00:01:00 +0000,49.46,35,7.23,average,-,3,-,9.4,8:08,5,5,not traveling,not sick,nothing,5
